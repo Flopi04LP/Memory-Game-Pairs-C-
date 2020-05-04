@@ -4,7 +4,7 @@ This is an easy Memory Game.
 
 #Introduction
 Introduction
-Pairs, also known as Concentration, Memory cards, Pexeso etc. is a simple card game, where player must find two identical cards. This game is great for memory training and good to kill some time for kids and adults. So I will show you how easy this is.
+Pairs, also known as Concentration, Memory cards, Pexeso etc. is a simple card game, where player must find two identical cards. This game is great for memory training and good to kill some time for kids and adults. So I will show you how easy this is to code.
 
 #How does it work?
 
